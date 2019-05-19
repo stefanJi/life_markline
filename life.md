@@ -47,10 +47,10 @@
 
 * 2014/09 开始接触计算机编程，系统学习 C 语言
 * 2015/09 开始自学 Android Java
-* 2016 学习 Javascript，建立了 GitHub Page [博客](https://stefanji.github.io)
-* 2017/03 学习 Python
-* 2018/12 学习 Dartlang
-* 2018/12 学习 Flutter，开源项目[F4Lab](https://github.com/stefanJi/Flutter4GitLab)
+* 2016 自学 Javascript，建立了 GitHub Page [博客](https://stefanji.github.io/about/)
+* 2017/03 自学 Python，实现可一些爬虫，基于 Flask 的网站应用，以及毕业设计[外卖数据爬取分析](https://github.com/stefanJi/PythonWebCrawler)
+* 2018/12 自学 Dartlang, 并在公司做了分享，参与了开源项目 Dio [#305](https://github.com/flutterchina/dio/pull/305)
+* 2018/12 自学 Flutter，开源项目[F4Lab](https://github.com/stefanJi/Flutter4GitLab)
 
 ----
 
