@@ -1,0 +1,6 @@
+markline build life.md
+mv -r dist/* docs
+rm -rf dist
+git add .
+git commit -m "update site"
+git push
